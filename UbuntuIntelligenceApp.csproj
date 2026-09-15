@@ -71,7 +71,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Ubuntu.Mobile\Features\" />
+	  <MauiXaml Update="Ubuntu.Mobile\Features\Onboarding\Views\AddressInformationPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	</ItemGroup>
 
 </Project>
