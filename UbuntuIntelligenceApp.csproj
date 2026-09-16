@@ -71,7 +71,11 @@
 	</ItemGroup>
 
 	<ItemGroup>
+<<<<<<< HEAD
 	  <MauiXaml Update="Ubuntu.Mobile\Features\Onboarding\Views\AccountTypePage.xaml">
+=======
+	  <MauiXaml Update="Ubuntu.Mobile\Features\Onboarding\Views\AddressInformationPage.xaml">
+>>>>>>> d954d884e3d5fec20eec3f5acacbc82a3e80897b
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>
